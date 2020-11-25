@@ -1,0 +1,1 @@
+Se creo la busqueda binaria en C++ implementando el metodo recursivo y el metodo iterativo para comprender mejor el funcionamiento del algoritmo.
